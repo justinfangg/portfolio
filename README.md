@@ -2,8 +2,7 @@
 
 My personal site — Next.js + Tailwind + Motion.
 
-- Edit content (bio, links, collage) in `data/site.ts`
-- Put collage photos in `public/collage/` and set each item's `src`
+- Edit content (bio, links) in `data/site.ts`
 
 ```bash
 npm run dev   # http://localhost:3000
